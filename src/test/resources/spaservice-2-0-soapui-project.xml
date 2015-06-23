@@ -932,7 +932,7 @@
    <soapenv:Header/>
    <soapenv:Body>
       <spad:getServiceProviderCategories>
-         <spad:msisdn>441234567890</spad:msisdn>
+         <spad:msisdn>447731293039</spad:msisdn>
       </spad:getServiceProviderCategories>
    </soapenv:Body>
 </soapenv:Envelope>]]></con:request><con:assertion type="SOAP Fault Assertion" name="Not SOAP Fault"/><con:assertion type="Simple NotContains" name="Not Contains"><con:configuration><token>&lt;cor:SOAFaultCode xmlns:cor="http://soa.o2.co.uk/coredata_1">SPA2001E</token><ignoreCase>false</ignoreCase><useRegEx>false</useRegEx></con:configuration></con:assertion><con:credentials><con:authType>Global HTTP Settings</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig action="http://soa.o2.co.uk/sdp/spaservice_2/SpaPort/getServiceProviderCategories" mustUnderstand="NONE" version="200508"/><con:wsrmConfig version="1.2"/></con:request></con:config></con:testStep><con:properties/></con:testCase><con:properties/></con:testSuite><con:properties/><con:wssContainer/></con:soapui-project>
