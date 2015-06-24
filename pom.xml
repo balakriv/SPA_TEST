@@ -5,6 +5,6 @@
     <groupId>soa.ref.o2.co.uk</groupId>
     <artifactId>SpaTestService</artifactId>
     <name>SpaTestService</name>
-    <packaging>jar</packaging>
+    <packaging>ar</packaging>
     <version>1.0</version>
 </project>
