@@ -6,9 +6,7 @@
     <artifactId>SpaTestService</artifactId>
     <name>SpaTestService</name>
     <version>1.0</version>
-</project>
 
- 
     <pluginRepositories>
         <pluginRepository>
             <id>eviwarePluginRepository</id>
